@@ -1,8 +1,7 @@
 # **Contributing Guidelines** 📄
 
-This documentation contains a set of guidelines to help you during the contribution process.
-We are happy to welcome all the contributions from anyone willing to improve/add new scripts to this project.
-Thank you for helping out and remember, **no contribution is too small.**
+TThank you for your interest in contributing to our project! We welcome contributions of all sizes and types. Please follow these guidelines to help make the process smooth for everyone involved.
+Remember, **no contribution is too small.**
 <br>
 
 
@@ -26,21 +25,22 @@ in case you are stuck:
 ## **Issue Report Process 📌**
 
 1. Go to the project's issues.
-2. Give proper description for the issues.
-3. Don't spam to get the assignment of the issue 😀.
-4. Wait for till someone is looking into it !.
+2. Provide a detailed description of the issue you are reporting.
+3. Avoid spamming to get assigned to an issue 😀.
+4. Wait for confirmation that someone is reviewing the issue before starting work.
 5. Start working on issue only after you got assigned that issue 🚀.
 
 <br>
 
 ## **Pull Request Process 🚀**
 
-1. Ensure that you have self reviewed your code 😀
-2. Make sure you have added the proper description for the functionality of the code
-3. I have commented my code, particularly in hard-to-understand areas.
-4. Add screenshot it help in review.
-5. Submit your PR by giving the necesarry information in PR template and hang tight we will review it really soon 🚀
+1. **Self-Review:** Ensure that you have reviewed your code thoroughly before submission.
+2. **Description:** Provide a clear and concise description of the changes you have made.
+3. **Comments:** Comment your code, especially in complex or hard-to-understand sections.
+4. **Screenshots:** Add screenshots or other visual aids if they help in understanding the changes.
+5. **PR Template:** Use the provided PR template to include all necessary information and submit your pull request.
 
+We will review your pull request as soon as possible.
 <br>
 
 # **Thank you for contributing💗** 
