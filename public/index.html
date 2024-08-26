@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>BrevityAI</title>
+    <link rel="stylesheet" href="stylesheet.css">   
+</head>
+<body>
+    <h1>BrevityAI</h1>
+    <p>Welcome to BrevityAI! Our advanced AI-powered tool is designed to distill lengthy articles, research papers, and other extensive texts into concise and insightful summaries. Whether you're pressed for time or need a quick overview, BrevityAI simplifies complex content, making it easy to grasp the essence in seconds.</p>
+    <p>Drop your text below and watch it transform with a single click.</p>
+    <div class="container">
+        <div class="text-box">
+            <textarea id="text_to_summarize" name="text_to_summarize" placeholder="Paste in some text to condense. (Min length is 200 chars. Max length is 100,000 chars.)" maxlength="100000"></textarea>
+            <button id="submit-button" class="submit-button">
+                <span class="submit-button-text">Condense</span>
+            </button>
+        </div>
+        <div class="text-box"> 
+            <textarea id="summary" name="summarized_text" placeholder="Condensed text will appear here"></textarea>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
