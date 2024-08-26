@@ -1,0 +1,1 @@
+this is BrevityAI, an ai model that changes the way you summarize text.
