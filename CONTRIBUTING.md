@@ -4,7 +4,6 @@ This documentation contains a set of guidelines to help you during the contribut
 We are happy to welcome all the contributions from anyone willing to improve/add new scripts to this project.
 Thank you for helping out and remember, **no contribution is too small.**
 <br>
-Please note we have a [code of conduct](CODE_OF_CONDUCT.md)  please follow it in all your interactions with the project.
 
 
 
