@@ -28,6 +28,13 @@ BrevityAI is a powerful text summarization tool designed to help you distill com
 
 ### 💵 How to Contribute
 
+<p align="center">
+  <a href="https://github.com/Ojhaharsh/BrevityAI/blob/main/public/images/BrevityAI.png" target="_blank">
+    <img height="144px" alt="BrevityAI logo" src="https://github.com/Ojhaharsh/BrevityAI/blob/main/public/images/BrevityAI.png">
+  </a>
+</p>
+
+
 ```bash
    # Fork the repository to your GitHub account.
    # Clone the forked repository to your local machine.
