@@ -1,3 +1,4 @@
+require('dotenv').config();
 const axios = require('axios');
 // This is the function where the call to the API is made. Returns the summarized text as a string.
 
